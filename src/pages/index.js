@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import Testamonials from "../components/ClientTestamonials";
 import Footer from "../components/Footer";
 import Gallery from "../components/Gallery";
